@@ -18,17 +18,17 @@ A classic **vertical-scrolling shoot 'em up (STG)** game implemented entirely in
 - **PWM-driven audio** with background music playback
 - **AABB collision detection** for bullets and enemies
 
-## � Game Screenshots
+## 📸 Game Screenshots
 
 <p align="center">
   <img src="IMG-20251125-WA0003.jpg" alt="Game Screenshot 1" width="240"/>
   <img src="IMG-20251125-WA0004.jpg" alt="Game Screenshot 2" width="240"/>
   <img src="IMG-20251125-WA0005.jpg" alt="Game Screenshot 3" width="240"/>
-  <img src="IMG-20251125-WA0006.jpg" alt="Game Screenshot 3" width="240"/>
-  <img src="IMG-20251125-WA0007.jpg" alt="Game Screenshot 3" width="240"/>
-  <img src="IMG-20251125-WA0008.jpg" alt="Game Screenshot 3" width="240"/>
+  <img src="IMG-20251125-WA0006.jpg" alt="Game Screenshot 4" width="240"/>
+  <img src="IMG-20251125-WA0007.jpg" alt="Game Screenshot 5" width="240"/>
+  <img src="IMG-20251125-WA0008.jpg" alt="Game Screenshot 6" width="240"/>
 
-## �🛠️ Hardware Spec
+## 🛠️ Hardware Spec
 
 | Component | Specification |
 |-----------|---------------|
