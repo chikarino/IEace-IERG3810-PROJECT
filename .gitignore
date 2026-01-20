@@ -1,0 +1,50 @@
+# =============================
+# Keil / ARM μVision Ignore
+# =============================
+
+# Project build artifacts
+*.axf
+*.elf
+*.hex
+*.bin
+*.lnp
+*.map
+*.lst
+*.htm
+*.d
+*.dep
+*.crf
+*.o
+*.obj
+*.log
+*.bak
+*.tmp
+*.old
+
+# IDE-specific settings
+*.uvopt
+*.uvoptx
+*.uvgui.*
+*.uvguix.*
+*.sct
+
+# Build / output directories
+Objects/
+Listings/
+Build/
+Output/
+DebugConfig/
+
+# VSCode / Keil assistant logs
+.vscode/
+*.uv4.log*
+*.uv4.lock
+
+# Ignore all LAB folders (LAB1, LAB2, etc.)
+LAB*/
+
+# System or editor specific
+Thumbs.db
+desktop.ini
+.DS_Store
+project.rar
